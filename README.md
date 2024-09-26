@@ -69,7 +69,7 @@
 
 
 
-<a href="https://github.com/Amanastel/amanastel.github.io/" target="_blank">**Visit Now** 🚀</a>
+<a href="https://github.com/aaryamanoj/aaryamanoj.github.io/" target="_blank">**Visit Now** 🚀</a>
 
 ## 📬 Contact/
 
