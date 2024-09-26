@@ -48,8 +48,10 @@
 ✔️ About\
 ✔️ Projects \
 ✔️ Skills \
+✔️ Certificates
 ✔️ Resume\
-✔️ Contact Info
+✔️ Contact Info\
+
 
 
 
