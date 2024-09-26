@@ -1,7 +1,6 @@
- # Aman  Portfolio
+ # Arya A  Portfolio
 
-<a href="https://github.com/Amanastel/amanastel.github.io/" target="_blank">**Visit Now** 🌐🖇️</a>
-
+<a href="https://github.com/aaryamanoj/aaryamanoj.github.io/" target="_blank">**Visit Now** 🌐🖇️</a>
 
 
 ### <h1 align="center">Website Preview 💻</h1>
@@ -68,16 +67,16 @@
 
 
 
-<a href="https://github.com/Amanastel/amanastel.github.io" target="_blank">**Visit Now** 🚀</a>
+<a href="https://github.com/Amanastel/amanastel.github.io/" target="_blank">**Visit Now** 🚀</a>
 
 ## 📬 Contact/
 
 If you want to contact me, you can reach me through below handles.
 
  <p align="left">
-  <a href="https://www.linkedin.com/in/amanastel/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" width="40px" alt="linkedin" /></a>&emsp;
-  <a title="amankumar.ak0012@gmail.com" href="mailto:amankumar.ak0012@gmail.com" target="_blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="40px"   alt="mail-me" /></a>&emsp;
-  <a href="https://wa.me/+917007219431" target="blank"><img align="center" src="https://media2.giphy.com/media/Q8I2fYA773h5wmQQcR/giphy.gif" width="40px"  alt="whatsapp-me" /></a>&emsp;	
+  <a href="https://www.linkedin.com/in/arya-manoj/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" width="40px" alt="linkedin" /></a>&emsp;
+  <a title="aryamanojk29@gmail.com" href="aryamanojk29@gmail.com" target="_blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="40px"   alt="mail-me" /></a>&emsp;
+  <a href="https://wa.me/+918217794627" target="blank"><img align="center" src="https://media2.giphy.com/media/Q8I2fYA773h5wmQQcR/giphy.gif" width="40px"  alt="whatsapp-me" /></a>&emsp;	
  </p>
 
 <br>
