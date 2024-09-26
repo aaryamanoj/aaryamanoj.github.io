@@ -6,21 +6,25 @@
 
 ### <h1 align="center">Website Preview 💻</h1>
 #### Home Section
-<img src="assets/screenshort/main.png" width="900">
+<img src="assets/screenshot/home.png" width="900">
 
 
 #### About Section
-<img src="assets/screenshort/aboutme.png" width="900">
+<img src="assets/screenshot/about.png" width="900">
 
 
 #### Projects Section
-<img src="assets/screenshort/project.png" width="900">
+<img src="assets/screenshot/projects.png" width="900">
   
   #### Contact Section
-<img src="assets/screenshort/contact.png" width="900">
+<img src="assets/screenshot/contact.png" width="900">
 
 #### Skills Section
+<img src="assets/screenshot/skills.png" width="900">
+
+#### certificates Section
 <img src="assets/screenshort/skills.png" width="900">
+
 
 
 :star: Star me on GitHub — it helps!
@@ -64,9 +68,9 @@
 
 
 
-<a href="https://github.com/Amanastel/amanastel.github.io/" target="_blank">**Visit Now** 🚀</a>
+<a href="https://github.com/Amanastel/amanastel.github.io" target="_blank">**Visit Now** 🚀</a>
 
-## 📬 Contact
+## 📬 Contact/
 
 If you want to contact me, you can reach me through below handles.
 
