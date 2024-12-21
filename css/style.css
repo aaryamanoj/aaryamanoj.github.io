@@ -605,6 +605,18 @@ main>p {
     color: var(--first-color);
 }
 
+/* Certificates */
+.other_certificates_button {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center; /* Centers the button horizontally */
+}
+.internship_certificates_button {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center; /* Centers the button horizontally */
+}
+
 /* ====== SKILLS ====== */
 .skills_container {
     padding: 2rem 1.5rem 0;

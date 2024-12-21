@@ -22,7 +22,7 @@
 <img src="assets/screenshot/skills.png" width="900">
 
 #### certificates Section
-<img src="assets/screenshort/skills.png" width="900">
+<img src="assets/screenshot/Screenshot (59).png" width="900">
 
 
 
