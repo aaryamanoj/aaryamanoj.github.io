@@ -654,8 +654,6 @@ main>p {
     color: var(--text-color-light);
 }
 
-
-
 .skills_list {
     row-gap: 1.5rem;
     padding-left: 2rem;
@@ -688,7 +686,6 @@ main>p {
     display: block;
     background-color: var(--first-color);
 }
-
 
 
 .skills_open .skills_list {
