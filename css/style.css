@@ -624,9 +624,7 @@ main>p {
     box-shadow: rgba(100, 100, 111, 0.1) 0px 5px 25px 0px;
 }
 
-.skills_content {
-    /* row-gap: 0; */
-}
+
 
 .skills_header {
     display: flex;
@@ -653,7 +651,6 @@ main>p {
     font-size: var(--small-font-size);
     color: var(--text-color-light);
 }
-
 .skills_list {
     row-gap: 1.5rem;
     padding-left: 2rem;
@@ -686,8 +683,6 @@ main>p {
     display: block;
     background-color: var(--first-color);
 }
-
-
 .skills_open .skills_list {
     height: max-content;
     margin-bottom: var(--mb-2-5);
