@@ -632,13 +632,6 @@ main>p {
     margin-bottom: var(--mb-2-5);
     cursor: pointer;
 }
-
-.skills_icon,
-.skills_arrow {
-    font-size: 2rem;
-    color: var(--first-color);
-}
-
 .skills_icon {
     margin-right: var(--mb-0-75);
 }
@@ -683,16 +676,6 @@ main>p {
     display: block;
     background-color: var(--first-color);
 }
-.skills_open .skills_list {
-    height: max-content;
-    margin-bottom: var(--mb-2-5);
-    transition: 0.5s;
-}
-
-.skills_open .skills_arrow {
-    transform: rotate(-180deg);
-}
-
 /*==================== PROJECTS ====================*/
 .portfolio_container {
     overflow: initial;
