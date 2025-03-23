@@ -654,10 +654,7 @@ main>p {
     color: var(--text-color-light);
 }
 
-.skills_arrow {
-    margin-left: auto;
-    transition: 0.5s;
-}
+
 
 .skills_list {
     row-gap: 1.5rem;
@@ -692,11 +689,7 @@ main>p {
     background-color: var(--first-color);
 }
 
-.skills_close .skills_list {
-    height: 0;
-    overflow: hidden;
-    transition: 0.5s;
-}
+
 
 .skills_open .skills_list {
     height: max-content;
